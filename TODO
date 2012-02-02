@@ -1,0 +1,9 @@
+- documentation!
+  - "Getting Started"
+  - "troubleshooting" aka "aaaaah, it's not working!"
+  - API documentation -> if it isn't documented, it doesn't exist ;-)
+
+- errors: use general __repr__ format for all exceptions; don't check if lineno
+  is given or not!
+
+- each syntax element must have a lineno property! -> REALLY?

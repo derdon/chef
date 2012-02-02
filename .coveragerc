@@ -1,0 +1,16 @@
+[run]
+include = chef/*
+omit =
+    chef/tests/*
+    chef/*_recipe.py
+    chef/datastructures.py
+    chef/external/*
+
+[report]
+exclude_lines =
+    pragma: no cover
+    __version__
+    def __init__
+    def __repr__
+    def __str__
+    raise NotImplementedError

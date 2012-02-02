@@ -1,0 +1,9 @@
+*.pyc
+*.egg-info
+.tox
+.coverage
+env
+build
+tmp.log
+# files I don't want to commit or push accidentally start with an underscore _
+_*

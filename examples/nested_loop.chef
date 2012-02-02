@@ -1,0 +1,20 @@
+Reversed multiplication table.
+
+Ingredients.
+10 i
+10 j
+result
+
+Method.
+Analyze the i.
+Examine the j.
+Put j into mixing bowl.
+Combine i.
+Fold result into mixing bowl.
+Put result into 2nd mixing bowl.
+Clean mixing bowl.
+Decrement the j until examined.
+Decrement the i until analyzed.
+Pour contents of the 2nd mixing bowl into the baking dish.
+
+Serves 1.

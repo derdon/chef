@@ -1,0 +1,15 @@
+Simple loop.
+
+This prints the numbers from 0 to 10 without any spaces or newlines between the
+numbers.
+
+Ingredients.
+10 number
+
+Method.
+Count the number.
+Put number into mixing bowl.
+Decrement the number until counted.
+Pour contents of the mixing bowl into the baking dish.
+
+Serves 1.

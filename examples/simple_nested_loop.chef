@@ -1,0 +1,20 @@
+A backwards counter.
+
+This script counts backwards from 3 to 1 three times. So the expected output is:
+321
+321
+321
+
+Ingredients.
+3 i
+3 j
+10 ml newline
+
+Method.
+Count the i.
+Scan the j.
+Put j into mixing bowl.
+Decrement the j until scanned.
+Put newline into mixing bowl.
+Decrement the i until counted.
+Pour contents of the mixing bowl into the baking dish.
